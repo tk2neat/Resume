@@ -1,0 +1,10 @@
+body {
+    padding: 10px;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(193, 161, 218);
+}
+.fn {
+    color: #ac12ff;
+
+}
